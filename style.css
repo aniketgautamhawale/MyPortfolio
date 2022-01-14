@@ -389,6 +389,10 @@ section.contact .input-wrap .form-control{
     border-color: rgba(229,231,235,var(--tw-border-opacity));
 }
 
+section.contact .input-wrap textarea{
+    padding: 1rem;
+}
+
 section.contact .input-wrap-2 input{
     margin-bottom: 2rem;
 }
